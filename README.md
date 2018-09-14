@@ -1,2 +1,1 @@
-# packer-aws
-Example of new AMI creation on AWS with Packer
+# Example of new AMI creation on AWS with Packer
